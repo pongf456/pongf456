@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://media.licdn.com/dms/image/v2/D4E16AQF_Jo7Ikq59FQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722826429252?e=1757548800&v=beta&t=gFlc1qqlQcZgwP_yDBsPGqz49dx5wLslXRw51JlPJ74"  />
+  <img height="100" src="https://media.licdn.com/dms/image/v2/D4E16AQF_Jo7Ikq59FQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722826429252?e=1760572800&v=beta&t=q7aRunLphbGLdFbZZMxEJVNfEgSFLkvvG8iIcxEC_68"  />
 </div>
 
 ###
